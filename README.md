@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · ogaAlVS8 -->
-## Notification 1/2
-Round: Round 1
-To: michellehokr@yahoo.com, ptcarr1@msn.com
-At: 2026-09-16 15:32:38
-Id: ogaAlVS8
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angie@karassinn.com, sarah@presuttifirm.com
+At: 2026-09-16 15:32:46
+Id: sajC8zez
